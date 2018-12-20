@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "BTC Tab - Realtime BTC info on every new tab.",
-    "short_name": "BTC Tab",
-    "version": "1.0.1",
-    "description": "Realtime BTC dashboard delivering streaming price, news, social posts, and code checkins on every new tab.",
+    "name": "Bitcoin Tab - Market info on every new tab.",
+    "short_name": "Bitcoin Tab",
+    "version": "1.0.2",
+    "description": "Realtime Bitcoin dashboard delivering streaming price, news, social posts, and code checkins on every new tab.",
     "default_locale": "en",
     "icons": {
         "16": "img/img_16.png",
@@ -18,7 +18,7 @@
         "newtab": "popup.html"
     },
     "browser_action": {
-        "default_title": "BTC Tab"
+        "default_title": "Bitcoin Tab"
     },
     "permissions": [
       "activeTab",
